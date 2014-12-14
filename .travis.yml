@@ -4,9 +4,10 @@ jdk: oraclejdk7
 android:
   components:
     - platform-tools-21.0.0
-    - tools-23.0.5
-    - build-tools-21.1.0
+    - tools-24.0.1
+    - build-tools-21.1.2
     
+    - docs-21
     - android-8
     - android-10
     - android-19
